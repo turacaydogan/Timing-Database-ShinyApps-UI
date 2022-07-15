@@ -1,0 +1,18 @@
+Contributors: Daniel Poole, Kyle J. Lees, and Luke A. Jones
+Citation: Poole, D., Lees, K. J., & Jones, L. A. (2020). Click Trains do not Alter Auditory Temporal Order Judgements, Timing & Time Perception, 8(3-4), 239-253. doi: https://doi.org/10.1163/22134468-bja10011
+Stimulus: Auditory
+Manipulations: 3 different conditions as interval stimulus (clicktrain, silence, whitenoise)
+Feedback: key pressing
+Subject demographics: Sixty participants (16 male) with a mean age of 21.33 years ± 3.42
+Type of response device used: Computer keyboard
+Experiment setting: Auditory stimuli were delivered through Sennheiser HD 65 TV headphones controlled by E-Prime 1.2 software 
+Training: The high and low tone were presented for 500 ms alongside a visual prompt indicating whether the tone was low or high. To confirm they could distinguish the tones, the participant then completed six trials in which they were asked to identify whether the high or low tone was presented. The participants then completed ten TOJ trials with the SOA at 150 ms to confirm they understood the task instructions. They were required to perform at 80% accuracy to continue to the next stage. 
+The primary aim of the experiment: Investigation of click trains effect on temporal order perception
+Main result of the study:  The present findings therefore suggest that click trains do not influence temporal order perception.
+Special instructions: Temporal Order Judgement
+Date of data collection: 2020
+Location of data collection: Unknown
+Note: type of auditory stimulus that is presented first is under first_stim (high_tone or low_tone)
+Note2: type of manipulation condition is under condition (silence=1, whitenoise=2, clicktrain=3)
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

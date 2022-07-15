@@ -1,0 +1,16 @@
+Contributors: Marta Suárez-Pinilla ; Kyriacos Nikiforou ; Zafeirios Fountas ; Anil K. Seth ; Warrick Roseboom
+Citation: Marta Suárez-Pinilla, Kyriacos Nikiforou, Zafeirios Fountas, Anil K. Seth, Warrick Roseboom; Perceptual Content, Not Physiological Signals, Determines Perceived Duration When Viewing Dynamic, Natural Scenes. Collabra: Psychology 1 January 2019; 5 (1): 55. doi: https://doi.org/10.1525/collabra.234
+Stimulus: Audiovisual
+Manipulations: Different types of videos
+Feedback: Reporting estimated duration of stimulus
+Subject demographics: Fifty-five human participants (40 female, average age 21.4)
+Type of response device used: keyboard
+Experiment setting: LaCie Electron 22 BLUE II 22” with screen resolution of 1280 × 1024 pixels and refresh rate of 60 Hz
+Training: no training
+The primary aim of the experiment: physiological influences on human duration estimates for naturalistic videos between 1–64 seconds using cardiac and eye recordings. Duration estimates were biased by the amount of change in scene content. 
+Main result of the study:  Our results support a recent proposal that tracking change in perceptual classification networks provides a basis for human time perception, and suggest that previous assertions of the importance of physiological factors should be tempered.
+Special instructions: Temporal Estimation
+Date of data collection: 2019
+Location of data collection: Unknown
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

@@ -1,0 +1,19 @@
+Contributors: Nestor Matthews,Leslie Welch, and Elena Festa
+Citation: Matthews, N., Welch, L., & Festa, E. (2018). Superior Visual Timing Sensitivity in Auditory But Not Visual World Class Drum Corps Experts. eNeuro, 5(6), ENEURO.0241-18.2018. https://doi.org/10.1523/ENEURO.0241-18.2018
+Stimulus: Visual
+Manipulations: Same visual stimulie presented to participants who have different types of roles in a band
+Feedback: providing first object to change direction (left or right)
+Subject demographics: One hundred thirty-two college-aged (18–22 years old) people of either sex participated. Participants included 25 percussionists, 71 brass players, and 36 color guard from the DCI Bluecoats, a highly competitive music and dance ensemble.
+Type of response device used: Computer keyboard
+Experiment setting: The experiment ran on HP EliteOne 800 desktop computers, each with a Microsoft Windows 10 Enterprise operating system. Matlab 2017a software called functions from the Psychophysics toolbox
+Training: To develop familiarity with the dynamic plaid stimuli, participants began the experiment passively viewing Movies 1–8, which contain relatively exaggerated (300 ms) asynchronies. 
+The primary aim of the experiment:  investigated whether precise visual temporal order judgments (TOJs) more strongly align with color guard’s visual training or musicians’ auditory training
+Main result of the study:  visual timing can improve more by training cross-modally than intramodally, even when intramodal training and testing stimuli closely match.
+Special instructions: Temporal Order Judgement
+Date of data collection: 2017
+Location of data collection: Unknown
+Note: accuracy provided instead of choice
+Note2: type of rotation is provided under stim_rotation column
+Note3: different groups of participants are provided under contidion column
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

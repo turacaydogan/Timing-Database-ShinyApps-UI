@@ -1,0 +1,16 @@
+Contributors: Emily A. Williams, Ezgi M. Yüksel, Andrew J. Stewart & Luke A. Jones 
+Citation: Williams, E.A., Yüksel, E.M., Stewart, A.J. et al. Modality differences in timing and the filled-duration illusion: Testing the pacemaker rate explanation. Atten Percept Psychophys 81, 823–845 (2019). https://doi.org/10.3758/s13414-018-1630-8
+Stimulus: Auditory
+Manipulations: Type of stimulus (filled or empty)
+Feedback: Reporting estimated duration of stimulus
+Subject demographics: thirty-two human participants (40 female, average age 21.4)
+Type of response device used: keyboard
+Experiment setting:  A PC presented the experiments, written in E-Prime (Psychology Software Tools, Pittsburgh, PA). A 17-in. flat-screen Samsung Syncmaster monitor stood at a distance of 60 cm from the chin rest.
+Training: no training
+The primary aim of the experiment: to observe whether filled or empty stimulus affect the temporal estimation
+Main result of the study:  Estimates were higher for filled durations, whereas empty durations appear to have been judged as multiplicatively shorter
+Special instructions: Temporal Estimation
+Date of data collection: 2018
+Location of data collection: Unknown
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

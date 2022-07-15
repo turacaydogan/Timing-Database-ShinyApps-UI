@@ -1,0 +1,16 @@
+Contributors: Devika Narain , Evan D. Remington, Chris I. De Zeeuw & Mehrdad Jazayeri
+Citation: Narain, D., Remington, E.D., Zeeuw, C.I.D. et al. A cerebellar mechanism for learning prior distributions of time intervals. Nat Commun 9, 469 (2018). https://doi.org/10.1038/s41467-017-02516-x
+Stimulus: Visual
+Manipulations: Varying inter-tap-intervals(ITI), pacing interval
+Feedback: Key pressing
+Subject demographics: Seven human participants (2 female, 5 male)
+Type of response device used: Keyboard
+Experiment setting: Participants viewed all stimuli binocularly from a distance of approximately 67 cm on either a 23-inch Apple A1082 LCD monitor at a resolution of 1900 × 1200 driven by an Intel Macintosh Mac Pro computer, or a 24-inch early 2009 Apple Mac Pro at a refresh rate of 60 Hz in a dark, quiet room
+Training: 3 synchronisation taps
+The primary aim of the experiment:Numerous behavioral studies have shown that humans rely on prior knowledge to mitigate the uncertainty in sensory measurements, as predicted by Bayesian theory
+Main result of the study:  ITIs were biased toward the mean of the prior in both phases (Fig. 8f, g) and that the magnitude of the bias was larger in the continuation phase (paired t-test t5 = 4; p = 0.01).
+Special instructions: Tapping
+Date of data collection: 2017
+Location of data collection: Unknown
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

@@ -1,0 +1,54 @@
+Contributors: 
+Joost de Jong, Elkan Akyürek, Hedderik van Rijn
+
+Citation: 
+de Jong, Akyürek, van Rijn (in press). A common dynamic prior for time in duration discrimination. Psychonomic Bulletin & Review, https://doi.org/10.3758/s13423-021-01887-z
+
+Stimulus: 
+White circle (diameter 6.69 degrees) presented centrally against a grey background
+
+Manipulations:
+No between-subject manipulations. The proportional difference between Standard and Comparison was adjusted through a staircase procedure (3-up-one-down)
+
+Feedback:
+After each response, each subject received auditory feedback about whether their response was correct (high beep) or incorrect (low beep). 
+
+Subject demographics:
+Average age = 20.6
+SD age = 1.88
+
+Type of the response device used:
+Keyboard
+
+Experiment Setting:
+Lab
+
+Training:
+4 practice trials were given before the experiment
+
+Primary aim:
+Study which model fits sequential effects in duration discrimination best
+
+Main result:
+Results were most consistent with a Kalman filter, which suggests that a dynamic prior is updated by each presented duration (so both Standard and Comparison), weighted by the relative precision of previous obsevations (prior) and current sensory observation (likelihood). 
+
+Special instructions:
+No explicit countermeasures were taken against chronometric counting
+
+Link to materials and code:
+https://osf.io/hu43y/
+
+Data and time of data collection:
+December 2018, between 9:00 and 16:00
+
+Location of Data Collection:
+the Netherlands, Groningen (instructions in English)
+
+Other tasks:
+No other tasks were performed
+
+Variable coding:
+Duration_set contains all possible durations of the Standard. Order means the order in which Standard and Comparison are presented within a trial: 'SC' for Standard first, 'CS' for Comparison first. For responses, 'S' means 'Comparison was Shorter than Standard', and 'L' means 'Comparison was Longer than Standard'
+
+Exclusion:
+We excluded one participant from analysis because the experiment was not finished. We further excluded one participant based on predefined performance criteria (difference between Standard and Comparision should not exceed 100% during the experiment). 
