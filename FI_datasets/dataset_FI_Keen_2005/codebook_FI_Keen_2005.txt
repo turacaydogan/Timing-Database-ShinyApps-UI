@@ -1,0 +1,19 @@
+Contributors: Richard Keen , Mika Macinnis, Paulo Guilhardi, Karen Chamberland, Russell Church
+Citation: Keen R, Macinnis M, Guilhardi P, Chamberland K, Church R. The lack of behavioral effects of fenbendazole: a medication for pinworm infection. Contemp Top Lab Anim Sci. 2005 Mar;44(2):17-23. PMID: 15773771.
+Stimulus: Auditory
+Manipulations: (Trace, Backward and Delay conditioning) x (Medication,control)
+Feedback: Rats head entry into food pellet
+Subject demographics: Twenty-four male Sprague Dawley rats
+Type of response device used: LEDphotocell (Model ENV-254)
+Experiment setting: The 12 chambers (25 x 30 x 30 cm) were located inside ventilated, noise-attenuating boxes (74 x 38 x 60 cm). Each chamber was equipped with a food cup, a water bottle, and two levers.
+Training: 
+The primary aim of the experiment:The purpose of this study was to determine the behavioral effects of fenbendazole on rats tested by using various conditioning and timing procedures. 
+Main result of the study: Results suggest that behavioral studies are unlikely to be influenced by fenbendazole treatment given before or during a study.
+Special instructions: Fixed Interval Reinforced Distribution
+Note:Conditioning_Type: the type of conditioning procedure that is utilized (food delivery before or after 10s or trace).
+Exp_Condition: 1 to 7 Baseline, 8 to 24 Treatment, and 25 to 29 return to baseline(session numbers).
+Group: Test (drug treatment) or Control
+Date of data collection: 2005
+Location of data collection: Unknown
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

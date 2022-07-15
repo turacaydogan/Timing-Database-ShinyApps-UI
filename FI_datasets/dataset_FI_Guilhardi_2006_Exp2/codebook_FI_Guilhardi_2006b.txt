@@ -1,0 +1,48 @@
+Merve Erdogan
+
+Guilhardi, P., & Church, R. M. (2006). The pattern of responding after extensive extinction. Learning & Behavior, 34 (3), 269-284.
+
+EXPERIMENT 2
+
+Twelve animals were naive and twelve had previous experience an unrelated procedure.
+Age: 55 days old (Naive) or 137 days old (Non-naive)
+Naive Subjects: 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587
+Experienced Subjects: 524, 525, 526, 527, 528, 529, 530, 531, 532, 534,, 535, 539
+
+A multiple cued interval (MCI) temporal discrimination procedure was used in the study.
+Each interval was associated with a discriminative stimulus. The stimulus was on during the related fixed interval. At the end of the fixed-interval the food was primed: the next response (head entry into the food cup) after the fixed-interval produced the food delivery and terminated the discriminative stimulus and the current cycle. 
+
+Stims:
+Audio1: White-noise
+Visual: Houselight
+Audio2: Clicker
+
+Some trials in the study were acquisition trials in which the response was reinforced. Some trials were extinction trials in which there was no reward for the response. All trials were fixed interval trials. 
+
+There were 3 conditions in the experiment coded in the Block column of the data. 
+1: Acquisition (30 sessions)
+	
+	There were three fixed-interval schedules (30, 60, 120).
+	Each fixed-interval was signaled by one of the stimuli (Audio1, Audio2, Visual).
+	There were six (3!) possible combination of stimulus and interval.
+	Four rats were tested in each of the combination.
+
+2: Extinction (30 sessions)
+
+	The procedure was the same as the acquisition, except the responses were not 	reinforced. There was no food at the end of the fixed interval.
+	There were consistent and inconsistent groups with equal number of subjects.
+	In the consistent group, the combination of stimulus and interval was consistent with the acquisition phase.
+	In the inconsistent group, each of the intervals was associated with a different stimulus.
+
+3: Reacquisition (12 sessions)
+	
+	The procedure was the same as the acquisition phase.
+	There were consistent and inconsistent groups with the equal number of subjects.
+	In the consistent group, the combination of stimulus and interval was consistent with the acquisition phase.
+	In the inconsistent group, each of the interval was associated with a different stimulus.
+
+Assigment of subjects to conditions:
+Consistent Group: 524, 528, 536, 576, 583, 587
+Inconsistent (Phase3) Group: 526, 531, 534, 580, 585, 5586
+Inconsistent (Phase2) Group: 527, 532, 535, 578, 579, 582
+Inconsistent (Phase2 and 3) Group: 525, 529, 530, 577, 581, 584

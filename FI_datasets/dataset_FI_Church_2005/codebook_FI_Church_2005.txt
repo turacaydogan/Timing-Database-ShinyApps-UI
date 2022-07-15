@@ -1,0 +1,16 @@
+Contributors: Paulo Guilhardi, Russell M. Church 
+Citation: Russell M. Church, Paulo Guilhardi, A Turing test of a timing theory, Behavioural Processes, Volume 69, Issue 1, 2005, Pages 45-58, ISSN 0376-6357, https://doi.org/10.1016/j.beproc.2005.01.001.
+Stimulus: Visual and Auditory
+Manipulations: Different types of Fixed Intervals
+Feedback: Rats head entry into food pellet
+Subject demographics: Twenty-four male Sprague Dawley rats
+Type of response device used: LEDphotocell (Model ENV-254)
+Experiment setting: The 12 chambers (25 x 30 x 30 cm) were located inside ventilated, noise-attenuating boxes (74 x 38 x 60 cm). Each chamber was equipped with a food cup, a water bottle, and two levers.
+Training: 
+The primary aim of the experiment:  A quantitative theory of timing or conditioning can be evaluated with a Turing test in which the behavioral results of an experiment can be compared with the predicted results from the theory. 
+Main result of the study: A Turing test provides a graded metric for the evaluation of a quantitative theory.
+Special instructions: Fixed Interval Reinforced Distribution
+Date of data collection: 2005
+Location of data collection: Unknown
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+

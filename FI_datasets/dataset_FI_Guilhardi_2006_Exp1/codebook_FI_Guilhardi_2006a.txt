@@ -1,0 +1,40 @@
+Merve Erdogan
+
+Guilhardi, P., & Church, R. M. (2006). The pattern of responding after extensive extinction. Learning & Behavior, 34 (3), 269-284.
+
+EXPERIMENT 1
+
+Age: 67 days old
+
+A multiple cued interval (MCI) temporal discrimination procedure was used in the study.
+Each interval was associated with a discriminative stimulus. The stimulus was on during the related fixed interval. At the end of the fixed interval the food was primed: the next response (head entry into the food cup) after the fixed-interval produced the food delivery and terminated the discriminative stimulus and the current cycle. 
+
+Stims:
+Audio1: White-noise
+Visual: Houselight
+Audio2: Clicker
+
+Some trials in the study were acquisition trials in which the response was reinforced. Some trials were extinction trials in which there was no reward for the response. All trials were fixed-interval trials. 
+
+There were 3 conditions in the experiment. 
+1: Acquisition (50 sessions)
+	
+	There were three fixed-interval schedules (30, 60, 120).
+	Each fixed-interval was signaled by one of the stimuli (Audio1, Audio2, Visual).
+	There were six (3!) possible combinations of stimulus and interval.
+	Four rats were tested in each of the combinations.
+
+2: Extinction (35 sessions)
+
+	The procedure was the same as the acquisition, except, the responses were not reinforced. There was no food at the end of the fixed interval.
+
+3: Reacquisition (10 sessions)
+	
+	The procedure was the same as the acquisition phase.
+	There were consistent and inconsistent groups with the equal number of subjects.
+	In the consistent group, stimulus and interval combination was consistent with the acquisition phase for twelve subjects.
+	In the inconsistent group, each of the intervals was associated with a different stimulus for twelve subjects.
+
+The Assigment of subjects to conditions:
+Consistent Group:  371, 374,  375, 376, 380, 381, 382, 383, 385, 386, 388, 390
+Inconsistent Group: 368, 369, 370, 372, 373, 377, 378, 379, 387, 389, 384, 391  

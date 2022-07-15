@@ -1,0 +1,16 @@
+Contributors: Krystal L. Parker, Rafael N. Ruggiero and Nandakumar S. Narayanan
+Citation: Parker, K. L., Ruggiero, R. N., &amp; Narayanan, N. S. (2015). Infusion of D1 Dopamine Receptor Agonist into Medial Frontal Cortex Disrupts Neural Correlates of Interval Timing. Frontiers in Behavioral Neuroscience, 9. https://doi.org/10.3389/fnbeh.2015.00294 
+Stimulus: Visual
+Manipulations: Different drug types
+Feedback: Rats' lever press to get water
+Subject demographics: 6 male Long-Evans rats (aged 2 months; 200–225 g)
+Type of response device used: lever
+Experiment setting:  in the home cage. Single housing and a 12 h light/dark cycle were used; all experiments took place during the light cycle
+Training: Rats were trained in interval timing tasks using standard operant procedures described in detail previously (Parker et al.,2014, 2015). First, animals learned to make operant lever presses to receive liquid rewards. After fixed-ratio training, animals were trained in a 12 s fixed-interval timing task in which rewards were delivered for responses after a 12 s interval
+Main result of the study: the influence of D1-dopamine signals on frontal neuronal activity adheres to a U-shaped curve, and that cognition requires optimal levels of dopamine in frontal cortex
+Special instructions: Fixed Interval 
+Date of data collection: 2015
+Location of data collection: Unknown
+Note: drug type is specified under column Drug_Type 
+Data formatted by: Turaç Aydoğan (turac.aydogan@ozu.edu.tr)
+
